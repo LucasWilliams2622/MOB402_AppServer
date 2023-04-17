@@ -1,0 +1,2 @@
+export const IP_CONFIG_LAPTOP = '192.168.0.104';
+//172.23.16.1
